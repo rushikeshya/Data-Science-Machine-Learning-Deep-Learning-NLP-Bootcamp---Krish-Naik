@@ -1,0 +1,12 @@
+Written by Rushikesh!
+This is 2nd Line! 
+This is writeline
+Tis is 2nd Writeline
+This is only write
+This is New line used (a) as appending new line in existing fileFirst line
+second line
+third line 
+This is New line used (a) as appending new line in existing file
+First line
+second line
+third line 
